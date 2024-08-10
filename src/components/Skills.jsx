@@ -7,7 +7,7 @@ const Skills = () => {
     { name: "JavaScript", percentage: 75 },
     { name: "React", percentage: 70 },
     { name: "Node.js", percentage: 65 },
-    { name: "Python", percentage: 80 },
+    // { name: "Python", percentage: 80 },
   ];
 
   return (
